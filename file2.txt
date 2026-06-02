@@ -1,1 +1,2 @@
 Hello from file2.txt.
+Buggy code is introduced.
